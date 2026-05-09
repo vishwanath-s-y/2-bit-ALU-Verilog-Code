@@ -85,7 +85,7 @@ README.md     → Documentation
 ![Waveform](Waveform.png)
 ## 👨‍💻 Author
 
-Vishwanath S Y 
+Vishwanath S Yeledahalli  
 Final Year ECE Student  
 
 ---
